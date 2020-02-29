@@ -25,7 +25,7 @@ public class TestGreeter {
   }
 
   @Test
-  public void greetShouldIncludeGreetingPhrase() {
+  public void greetShouldIncludeGreetingmessage() {
     String someone = "World, thank you making me happy";
     
     @Test
